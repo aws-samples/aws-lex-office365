@@ -14,7 +14,7 @@ Follow this [blog](https://aws.amazon.com/blogs/machine-learning/schedule-an-app
 
 ## Code
 
-The code for the lambda function used to call office 365 APIs are available [here](https://github.com/aws-samples/aws-lex-office365/code/) 
+The code for the lambda function used to call office 365 APIs are available [here](https://github.com/aws-samples/aws-lex-office365/tree/master/code) 
 
 ## License Summary
 
